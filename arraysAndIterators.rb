@@ -1,0 +1,1 @@
+my_details = {name=>'mashur',favcolor=>'red'}
